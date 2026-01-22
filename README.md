@@ -39,6 +39,7 @@ TP1-Algo/
 ├── main.c          # Programme principal lançant tous les tests
 ├── Makefile        # Compilation du projet
 ├── Doxyfile        # Configuration Doxygen
+├── test.sh         # Compilation et Exécution
 └── README.md
 ```
 
@@ -136,24 +137,9 @@ Chaque partie affiche clairement les résultats (**PASS / FAIL**) dans le termin
 
 ## Compilation et exécution
 
-### Compilation
-
 ```bash
-make
+bash test.sh
 ```
-
-### Exécution
-
-```bash
-./main
-```
-
-### Nettoyage
-
-```bash
-make clean
-```
-
 ---
 
 ## Documentation Doxygen
