@@ -1,4 +1,3 @@
-var searchData=
-[
-  ['left_0',['left',['../structNode.html#ad0976834843c7618677d22a10c495b36',1,'Node']]]
+var searchData = [
+    ['left_0', ['left', ['../structNode.html#ad0976834843c7618677d22a10c495b36', 1, 'Node']]]
 ];

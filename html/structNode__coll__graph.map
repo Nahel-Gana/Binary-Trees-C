@@ -1,4 +1,4 @@
 <map id="Node" name="Node">
-<area shape="rect" id="Node000001" title="Structure représentant un nœud d&#39;arbre binaire." alt="" coords="5,7,61,33"/>
-<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="76,13,88,20,79,26,62,27,62,22,78,21,83,20,74,18"/>
+    <area shape="rect" id="Node000001" title="Structure représentant un nœud d&#39;arbre binaire." alt="" coords="5,7,61,33"/>
+    <area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="76,13,88,20,79,26,62,27,62,22,78,21,83,20,74,18"/>
 </map>
